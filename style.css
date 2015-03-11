@@ -1,0 +1,82 @@
+.margen
+{
+	margin-bottom: 20px;
+}
+
+#graf
+{
+	background-color: white;
+	font-size: 30px;
+	color: black;
+	border-radius: 10px;
+	border-width: thick;
+	padding: 5px 5px 5px 5px;
+	font-family: fantasy;
+	border-color: black;
+	border-style: double;
+	cursor: pointer;
+	width: 150px;
+	margin-bottom: 50px;
+}
+
+#graf:hover
+{
+	background-color: #00bfff;
+	color: white;
+	border-color: white;
+}
+
+.boton
+{
+	background-color: black;
+	font-size: 30px;
+	color: white;
+	border-radius: 10px;
+	border-width: thick;
+	padding: 5px 5px 5px 5px;
+	font-family: fantasy;
+	border-color: white;
+	border-style: double;
+	cursor: pointer;
+	width: 50px;
+}
+
+#resultado
+{
+	background-color: white;
+	font-size: 30px;
+	color: black;
+	border-radius: 10px;
+	border-width: thick;
+	padding: 2px 2px 2px 2px;
+	font-family: fantasy;
+	border-color: black;
+	border-style: double;
+	width: 530px;
+	text-align: right;
+}
+
+.boton:hover
+{
+	background-color: #00bfff;
+	color: white;
+	border-color: white;
+}
+
+.operador
+{
+	margin-right: 13px;
+	margin-left: 14px;
+}
+
+.operador2
+{
+	margin-right: 0px;
+	margin-left: 42px;
+}
+
+.trigonometria
+{
+	width: 80px;
+}
+
